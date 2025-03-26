@@ -39,7 +39,7 @@ The parameter Settings of this simulation experiment are given below.
 According to the parameter settings mentioned above, we conducted a simulation experiment based on Omnet++. Specifically, for LP2-CACKM with and without MAm, we simulate the process of JUAV joining the cluster.
 ### 2.1 LP2-CACKM with MAm
 In the case of LP2-CACKM with MAm, we simulate the process of JUAV joining cluster in three stages. The first is the registration process of JUAV, which corresponds to step 1-2 in Section IV.C of the paper. Below is the corresponding simulation video.
-
+![Demo GIF](/Simulation gif/First stage--LP2-CACKM with MAm.gif)
 The second stage is the authentication process of JUAV authenticity by CMs inside the cluster, which corresponds to step 3-4 in Section IV. C of the paper. Below is the corresponding simulation video.
 
 The last stage is the verification process of other CLS for CMs authentication results on the authenticity of JUAV, corresponding to step 5-7 in Section IV. C of the paper. Below is the corresponding simulation video.
