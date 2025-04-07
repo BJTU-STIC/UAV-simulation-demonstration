@@ -51,7 +51,7 @@ The third stage is the verification process of other CLs for CMs authentication 
 ![Third Stage Demo](Simulation%20gif/Third%20stage--LP2-CASKU%20with%20MAm.gif)
 
 ### 2.2 LP2-CASKU without MAm
-In the case of LP2-CASKU without MAm, since JUAVs' joining request and CMs' authentication result are sent continuously, we show the process of JUAV joining cluster through a video, which corresponds to steps 1-7 in Section IV.C of the paper. Below is the corresponding simulation video. The simulation video can be found in [LP2-CACKM without MAm](Simulation%20video/LP2-CASKU%20without%20MAm.mp4).
+In the case of LP2-CASKU without MAm, since JUAVs' joining request and CMs' authentication result are sent continuously, we show the process of JUAV joining cluster through a video, which corresponds to steps 1-7 in Section IV.C of the paper. Below is the corresponding simulation video. The simulation video can be found in [LP2-CASKU without MAm](Simulation%20video/LP2-CASKU%20without%20MAm.mp4).
 
 ![Wihout MAm](Simulation%20gif/LP2-CASKU%20without%20MAm.gif)
 
